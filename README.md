@@ -13,3 +13,5 @@ Paper covers Rock
 <br /> (and as it always has) Rock crushes Scissors
 
 ![image](https://user-images.githubusercontent.com/58776067/180937846-83cdb237-b174-432d-90d1-e3d17c702166.png)
+
+<end>
