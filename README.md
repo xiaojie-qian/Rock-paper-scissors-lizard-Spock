@@ -4,12 +4,12 @@ Rock-paper-scissors-lizard-Spock (RPSLS) is a variant of Rock-paper-scissors tha
 
 Paper covers Rock
 <br />  Rock crushes Lizard
-Lizard poisons Spock
-Spock smashes Scissors
-Scissors decapitates Lizard
-Lizard eats Paper
-Paper disproves Spock
-Spock vaporizes Rock
+<br /> Lizard poisons Spock
+<br /> Spock smashes Scissors
+<br /> Scissors decapitates Lizard
+<br /> Lizard eats Paper
+<br /> Paper disproves Spock
+<br /> Spock vaporizes Rock
 (and as it always has) Rock crushes Scissors
 
 ![image](https://user-images.githubusercontent.com/58776067/180937846-83cdb237-b174-432d-90d1-e3d17c702166.png)
